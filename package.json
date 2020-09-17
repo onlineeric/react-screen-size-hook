@@ -1,0 +1,31 @@
+{
+  "name": "react-screen-size-hook",
+  "version": "0.1.0",
+  "description": "react screen-size tool hook version",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onlineeric/react-screen-size-hook.git"
+  },
+  "keywords": [
+    "react-screen-size-hook",
+    "react-screen-size",
+    "use-screen-size"
+  ],
+  "author": "Eric Cheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onlineeric/react-screen-size-hook/issues"
+  },
+  "homepage": "https://github.com/onlineeric/react-screen-size-hook#readme",
+  "dependencies": {
+    "react": "^16.13.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
+}
