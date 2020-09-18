@@ -1,9 +1,8 @@
-
-console.log('started index.js')
+console.log('started index.js');
 
 const useScreenSize = () => {
-  console.log('started useScreenSize')
-  return 'test 123'
-}
+    console.log('started useScreenSize');
+    return 'test 123';
+};
 
-export default useScreenSize
+export default useScreenSize;
